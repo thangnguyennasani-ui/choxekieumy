@@ -4,8 +4,6 @@ import type React from "react";
 import { useState, useEffect } from "react";
 import { useParams } from "next/navigation";
 import Link from "next/link";
-import Header from "@/components/header";
-import Footer from "@/components/footer";
 import { Button } from "@/components/ui/button";
 import {
   Fuel,
@@ -695,8 +693,6 @@ export default function ProductDetailPage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <Header />
-
       <section className="py-8 bg-white border-b">
         <div className="container mx-auto px-4">
           <Link
@@ -770,8 +766,8 @@ export default function ProductDetailPage() {
                         key={index}
                         onClick={() => setSelectedImageIndex(index)}
                         className={`aspect-square rounded-lg overflow-hidden border-2 transition-all ${selectedImageIndex === index
-                            ? "border-blue-600 shadow-md ring-2 ring-blue-200"
-                            : "border-gray-200 hover:border-gray-400"
+                          ? "border-blue-600 shadow-md ring-2 ring-blue-200"
+                          : "border-gray-200 hover:border-gray-400"
                           }`}
                       >
                         <img
@@ -1033,8 +1029,6 @@ export default function ProductDetailPage() {
           )}
         </div>
       )}
-
-      <Footer />
     </div>
   );
 }
