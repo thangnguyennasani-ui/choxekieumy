@@ -40,15 +40,15 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-white flex-shrink-0 mt-1" />
                 <span>
-                  <strong className="text-white block mb-1">Trụ sở chính:</strong>
-                  298 Vĩnh Viễn, P. 4, Q. 10, TP.HCM
+                  <strong className="text-white block mb-1">Địa chỉ 1:</strong>
+                  714 Tân Kỳ-Tân Quý, P. Bình Hưng Hòa, Q. Bình Tân, TP.HCM
                 </span>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-white flex-shrink-0 mt-1" />
                 <span>
-                  <strong className="text-white block mb-1">Chi nhánh 1 (Showroom):</strong>
-                  714 Tân Kỳ-Tân Quý, P. Bình Hưng Hòa, Q. Bình Tân, TP.HCM
+                  <strong className="text-white block mb-1">Chi nhánh 2:</strong>
+                  507 Quốc lộ 1A, P. Bình Hưng Hòa, Q. Bình Tân, TP.HCM
                 </span>
               </li>
               <li className="flex items-start gap-3">

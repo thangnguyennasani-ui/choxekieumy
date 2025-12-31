@@ -107,7 +107,7 @@ Cảm ơn!
                                 <MapPin className="w-6 h-6 text-[#0052cc] flex-shrink-0 mt-1" />
                                 <div>
                                     <h4 className="font-bold text-gray-800 mb-1">Địa Chỉ</h4>
-                                    <p className="text-gray-700">298 Vĩnh Viễn, P. 4, Q. 10, TP.HCM</p>
+                                    <p className="text-gray-700">714 Tân Kỳ-Tân Quý, P. Bình Hưng Hòa, Q. Bình Tân, TP.HCM</p>
                                 </div>
                             </div>
                         </div>

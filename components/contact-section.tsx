@@ -97,10 +97,10 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <h4 className="font-bold uppercase text-sm mb-1">
-                      Trụ sở chính
+                      Địa chỉ 1
                     </h4>
                     <p className="text-sm text-blue-100">
-                      298 Vĩnh Viễn, P.4, Q.10, TP.HCM
+                      714 Tân Kỳ-Tân Quý, P. Bình Hưng Hòa, Q. Bình Tân, TP.HCM
                     </p>
                   </div>
                 </div>
@@ -111,11 +111,10 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <h4 className="font-bold uppercase text-sm mb-1">
-                      Showroom
+                      Chi nhánh 2
                     </h4>
                     <p className="text-sm text-blue-100">
-                      714 Tân Kỳ Tân Quý, KP 39, Phường Bình Hưng Hòa, Thành phố
-                      Hồ Chí Minh
+                      507 Quốc lộ 1A, P. Bình Hưng Hòa, Q. Bình Tân, TP.HCM
                     </p>
                   </div>
                 </div>
