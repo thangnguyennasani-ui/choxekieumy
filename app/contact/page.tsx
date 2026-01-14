@@ -8,13 +8,13 @@ export default function ContactPage() {
         {
             city: "Chi Nhánh 1 - TP. Hồ Chí Minh",
             address: "714 Tân Kỳ-Tân Quý, P. Bình Hưng Hòa, Q. Bình Tân, TP.HCM",
-            phone: "0935 794 345 (A Hậu)",
+            phone: "09.3579.4345 (A Hậu)",
             hours: "8:00 - 17:30 (Từ Thứ 2 - CN)",
         },
         {
             city: "Chi Nhánh 2 - TP. Hồ Chí Minh",
             address: "507 Quốc lộ 1A, P. Bình Hưng Hòa, Q. Bình Tân, TP.HCM",
-            phone: "0935 794 345 (A Hậu)",
+            phone: "09.3579.4345 (A Hậu)",
             hours: "8:00 - 17:30 (Từ Thứ 2 - CN)",
         },
     ];
@@ -48,7 +48,7 @@ export default function ContactPage() {
                                 href="tel:0935794345"
                                 className="text-blue-700 font-bold text-lg hover:underline block mb-2"
                             >
-                                0935 794 345 (A Hậu)
+                                09.3579.4345 (A Hậu)
                             </a>
                         </div>
 

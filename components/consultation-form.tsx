@@ -88,7 +88,7 @@ Cảm ơn!
                                 <div>
                                     <h4 className="font-bold text-gray-800 mb-1">Gọi Chúng Tôi</h4>
                                     <a href="tel:0935794345" className="text-blue-700 hover:underline block">
-                                        0935 794 345 (A Hậu)
+                                        09.3579.4345 (A Hậu)
                                     </a>
                                 </div>
                             </div>
@@ -139,7 +139,7 @@ Cảm ơn!
                                 onChange={handleChange}
                                 required
                                 className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:border-[#0052cc]"
-                                placeholder="0901 234 567"
+                                placeholder="09.3579.4345"
                             />
                         </div>
 

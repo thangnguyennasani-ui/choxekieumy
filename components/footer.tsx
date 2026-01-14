@@ -55,7 +55,7 @@ export default function Footer() {
                 <Phone className="w-5 h-5 text-white flex-shrink-0" />
                 <div>
                   <a href="tel:0935794345" className="hover:text-white transition-colors block font-semibold">
-                    0935 794 345 (A Hậu)
+                    09.3579.4345 (A Hậu)
                   </a>
                 </div>
               </li>

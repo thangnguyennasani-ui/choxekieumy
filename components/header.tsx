@@ -66,7 +66,7 @@ export default function Header() {
                 </div>
                 <span className={`font-black tracking-wide whitespace-nowrap transition-all duration-300 ${isScrolled ? "text-sm hidden lg:inline" : "text-xl"
                   }`}>
-                  0935 794 345
+                  09.3579.4345
                 </span>
               </a>
             </div>
