@@ -319,7 +319,7 @@ const cars = [
     transmission: "Số tự động",
     odo: "N/A",
     image:
-      "/images/cars/cx5-2017-mau-moi/z7446915863452_e79bf2306187adc8985568f856085b00.jpg",
+      "/images/cars/cx5-2017-mau-moi/z7446915870805_7f1d09a31190e370c06c4b0b06fde32e.jpg",
   },
   {
     id: 23,
@@ -333,7 +333,7 @@ const cars = [
     transmission: "Số tự động",
     odo: "N/A",
     image:
-      "/images/cars/fotuner-2013-2cau-at/z7441097635577_ef429ae9912f8691fa255a60a2277634.jpg",
+      "/images/cars/fotuner-2013-2cau-at/z7446914428917_d3caced4a43a7c3d9374ebc983ae5141.jpg",
   },
   {
     id: 24,
@@ -347,7 +347,7 @@ const cars = [
     transmission: "Số tự động",
     odo: "N/A",
     image:
-      "/images/cars/kia-sedona-2017/z7446914423769_ab3ce342aa1b6a4e0bebd38048289763.jpg",
+      "/images/cars/kia-sedona-2017/z7446915410512_310d36bef438ee6ea88164560705d9c3.jpg",
   },
 ];
 
