@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import { useState, useEffect } from "react";
 import { Phone, Search, Menu, X } from "lucide-react";
 import { Input } from "@/components/ui/input";
@@ -31,7 +32,7 @@ export default function Header() {
               {/* Car Logo Icon */}
               <div className={`transition-all duration-300 ${isScrolled ? "w-16 h-16" : "w-28 h-28"}`}>
                 <img
-                  src="https://choxekieumy.vn/thumb/171x168/2/upload/hinhanh/logologochinh5965removebgpreview-4414.png"
+                  src="/images/logo/choxekieumy.png"
                   alt="CHỢ XE KIỂU MỸ Logo"
                   className="w-full h-full object-contain cursor-pointer"
                 />
