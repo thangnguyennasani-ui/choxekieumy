@@ -310,28 +310,28 @@ const cars = [
   {
     id: 22,
     name: "Mazda CX5 2017",
-    price: "Liên hệ",
+    price: "568 Triệu Đồng",
     fuel: "Xăng",
     status: "Đã sử dụng",
     location: "Hồ Chí Minh",
     domestic: "Trong nước",
     type: "SUV",
     transmission: "Số tự động",
-    odo: "N/A",
+    odo: "74.000 km",
     image:
       "/images/cars/cx5-2017-mau-moi/z7446915870805_7f1d09a31190e370c06c4b0b06fde32e.jpg",
   },
   {
     id: 23,
     name: "Fotuner 2013 AT",
-    price: "Liên hệ",
+    price: "380 Triệu Đồng",
     fuel: "Xăng",
     status: "Đã sử dụng",
     location: "Hồ Chí Minh",
     domestic: "Trong nước",
     type: "SUV",
     transmission: "Số tự động",
-    odo: "N/A",
+    odo: "126.000 km",
     image:
       "/images/cars/fotuner-2013-2cau-at/z7446914428917_d3caced4a43a7c3d9374ebc983ae5141.jpg",
   },
@@ -411,6 +411,21 @@ const cars = [
     odo: "133.000 km",
     image:
       "/images/cars/zinger-2010/z7457937876017_9bb122bb256eb6c60f1834f2b4bdfeb6.jpg",
+  },
+  {
+    id: 29,
+    name: "Toyota Vios E 2022",
+    year: 2022,
+    price: "355 Triệu Đồng",
+    fuel: "Xăng",
+    status: "Đã sử dụng",
+    location: "",
+    domestic: "Lắp ráp tại Việt Nam",
+    type: "",
+    transmission: "Số sàn",
+    odo: "35.000 km",
+    image:
+      "/images/cars/vios-e-so-san-2022/z7460487355239_3f028c6449381ae2a9cf103ae3bda9a6.jpg",
   },
 ];
 

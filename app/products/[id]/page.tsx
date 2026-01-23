@@ -71,6 +71,7 @@ const carFolderMap: Record<number, string> = {
   26: "innova-e-2012-so-san",
   27: "orlando-2016",
   28: "zinger-2010",
+  29: "vios-e-so-san-2022",
 };
 
 // Pre-defined image lists for each car (rebuilt from filesystem)
@@ -690,6 +691,27 @@ const carImagesMap: Record<number, string[]> = {
     "/images/cars/zinger-2010/z7457937934945_3f17021e38800a5dfcf3379cd99688b1.jpg",
     "/images/cars/zinger-2010/z7457937938365_fc7075a6d4c0c9f84c2f6a7d9809b0a5.jpg",
     "/images/cars/zinger-2010/z7457937942688_1950d1057c607f0c71cc8b9deb1bce38.jpg",
+  ],
+  29: [
+    "/images/cars/vios-e-so-san-2022/z7460487342643_cb662faaa7905afd6dcf9335b90b45e3.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355223_be4a6a49119254100921bd9f6e86d862.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355224_2925bdb982f2253faf613bd821ed277c.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355228_1877ff5297b9439cca8e3e9a00686629.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355230_14853c3bc5333093c50645967d964010.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355231_ca62de3d52bf11d638dde82b4734458a.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355233_fa8e4c0b70b80b198e8cf1bf2197e321.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355234_1ab4170aef48ba8efbd67a55e1c5913f.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355236_9afa2c4624543cdf2e392ca3bab500b4.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355237_e80f9206c080835a36463a97c69d92ce.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355238_f8eb7f55b44d10f143d46ef8d9576eac.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355239_3f028c6449381ae2a9cf103ae3bda9a6.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355240_013bbc1dfaeaf3dc80a4d9cab8c494af.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355241_668734e22df221e7a0d11dfd3b7cfef1.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355242_085d2c2b561d639188beb8919fdbd7c4.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355244_c8226b64606480ab0ad00bd1ef9d4c6b.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355246_3eab19c8bbb63ede200a31e5046f8c3a.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355248_cce0a395b9250f7549a1e0f3324606cc.jpg",
+    "/images/cars/vios-e-so-san-2022/z7460487355249_873a246f2a6a25e1531e6a6a38f1532c.jpg",
   ],
 };
 
