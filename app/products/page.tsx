@@ -427,6 +427,22 @@ const cars = [
     image:
       "/images/cars/vios-e-so-san-2022/z7460487355239_3f028c6449381ae2a9cf103ae3bda9a6.jpg",
   },
+  {
+    id: 30,
+    name: "Mitsubishi Outlander 2022 (Premium 2.0)",
+    year: 2022,
+    price: "705 Triệu Đồng",
+    fuel: "Xăng",
+    status: "Đã sử dụng",
+    location: "Hồ Chí Minh",
+    domestic: "Lắp ráp tại Việt Nam",
+    type: "SUV",
+    transmission: "Số tự động",
+    engine: "2.0L",
+    odo: "82.000 km",
+    image:
+      "/images/cars/mitsubitsi-oulander-2022-at/a.jpg",
+  },
 ];
 
 export { cars };

@@ -72,6 +72,7 @@ const carFolderMap: Record<number, string> = {
   27: "orlando-2016",
   28: "zinger-2010",
   29: "vios-e-so-san-2022",
+  30: "mitsubitsi-oulander-2022-at",
 };
 
 // Pre-defined image lists for each car (rebuilt from filesystem)
@@ -712,6 +713,28 @@ const carImagesMap: Record<number, string[]> = {
     "/images/cars/vios-e-so-san-2022/z7460487355246_3eab19c8bbb63ede200a31e5046f8c3a.jpg",
     "/images/cars/vios-e-so-san-2022/z7460487355248_cce0a395b9250f7549a1e0f3324606cc.jpg",
     "/images/cars/vios-e-so-san-2022/z7460487355249_873a246f2a6a25e1531e6a6a38f1532c.jpg",
+  ],
+  30: [
+    "/images/cars/mitsubitsi-oulander-2022-at/a.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456820_f83de8dffd9e0e0a6f9ac7701decf37e.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456830_7f9c797d78a13a91666169be4b4c78d2.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456831_8f13fb7446df73e88791be4d8f34afc8.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456832_a4c8606a7cec3df9d0ee2bcfe99de6d9.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456833_52dea0cabe7bb82383fa4fb0ac8c3848.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456834_24d06ce306faf66ee0ede9af9a27b827.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456835_03747fd21492aa816d47a6c1a17aea28.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456836_46d3e42e8b3ab36e95254ece951b20fb.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456837_85749f2a82f791983ddd38b5139b6710.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456838_3aea746c3314f674fbb4b2b4c671b2e3.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456839_c69d5704de8a5c65d80563ed50689f69.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456840_1b123323426f347adfde9a82120dd103.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456841_5282d2983780f782f7a8c0bdce958e29.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456842_7545d8a52f05b539fb1310090bf0114a.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456843_7c0c2ccf1b171a7e7aa2f19abbb593d6.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456845_8d3a020e960b2df9fccc505ddc8d9f13.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456846_02ce208c4eceeaeef1332b9a9af4475b.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456850_6127e77ef53038104fece122f0aea76f.jpg",
+    "/images/cars/mitsubitsi-oulander-2022-at/z7466820456851_e5fd70603c09d693b0c07411895dbe85.jpg",
   ],
 };
 

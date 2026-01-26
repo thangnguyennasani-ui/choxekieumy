@@ -9,7 +9,7 @@ import { cars } from "@/app/products/page"
 
 export default function FeaturedCars() {
   // Lấy 6 sản phẩm đầu tiên từ danh sách
-  const featuredCars = cars.slice(18, 24)
+  const featuredCars = cars.slice(24, 30)
 
   return (
     <section className="py-8 bg-white">
