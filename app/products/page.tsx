@@ -443,6 +443,34 @@ const cars = [
     image:
       "/images/cars/mitsubitsi-oulander-2022-at/a.jpg",
   },
+  {
+    id: 31,
+    name: "Mazda CX-5 2016 (2.5G)",
+    year: 2016,
+    price: "475,000,000 VND",
+    fuel: "Xăng",
+    status: "Đã sử dụng",
+    location: "",
+    domestic: "Lắp ráp tại Việt Nam",
+    type: "SUV",
+    transmission: "Số tự động",
+    odo: "138.000 km",
+    image: "/images/cars/cx5-2016-2.5g/z7471661007881_f9283b2da4f5be633c156a943dd0c829.jpg",
+  },
+  {
+    id: 32,
+    name: "Mercedes-Benz GLC 300 V1 2021 (Full Option)",
+    year: 2021,
+    price: "1,499,000,000 VND",
+    fuel: "Xăng",
+    status: "Đã sử dụng",
+    location: "",
+    domestic: "Lắp ráp tại Việt Nam",
+    type: "SUV",
+    transmission: "Số tự động",
+    odo: "65.000 km",
+    image: "/images/cars/mercedes-glc-300-v1-2021/z7471660208659_a5fb5713246f1e42b916b7a6803118b5.jpg",
+  },
 ];
 
 export { cars };
