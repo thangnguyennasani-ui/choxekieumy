@@ -471,6 +471,35 @@ const cars = [
     odo: "65.000 km",
     image: "/images/cars/mercedes-glc-300-v1-2021/z7471660208659_a5fb5713246f1e42b916b7a6803118b5.jpg",
   },
+  {
+    id: 33,
+    name: "Ford Everest 2009",
+    year: 2009,
+    price: "335,000,000 VND",
+    fuel: "Dầu",
+    status: "Đã sử dụng",
+    location: "",
+    domestic: "Lắp ráp tại Việt Nam",
+    type: "",
+    transmission: "Số tự động",
+    odo: "137.000 km",
+    image:
+      "/images/cars/ford-everest-2009/z7476297328648_8487fe2598ca100c757480f668f0850f.jpg",
+  },
+  {
+    id: 34,
+    name: "Kia Carnival 2009",
+    year: 2009,
+    price: "208,000,000 VND",
+    fuel: "Xăng",
+    status: "Đã sử dụng",
+    location: "",
+    domestic: "Lắp ráp tại Việt Nam",
+    type: "",
+    transmission: "Số tự động",
+    odo: "122.000 km",
+    image: "/images/cars/carnival-2009/z7476442184338_cf76b3e2e1ad686e608d79af8b326f4f.jpg",
+  },
 ];
 
 export { cars };
